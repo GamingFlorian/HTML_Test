@@ -7,7 +7,7 @@ function Button1(){
     document.getElementById("Thema").innerHTML = "Welche Seite?";
     document.getElementById("Button1").value = "Rechts";
     console.log("Button 1/2");
-  }else if(document.getElementById("Button 1").value == "Rechts"){
+  }else if(document.getElementById("Button1").value == "Rechts"){
     document.getElementById("Thema").innerHTML = "Du bist A!";
     console.log("Button 1/3");
   }

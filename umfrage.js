@@ -1,3 +1,5 @@
+console.log("Die Webseite wurde gestartet!");
+
 var ende = 0;
 var buchstabe;
 

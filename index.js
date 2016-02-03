@@ -4,5 +4,5 @@ var Click = 0;
 
 function Button(){
   Click++;
-  document.getElementById("Button").value=Click + "x geklickt";
+  document.getElementById("TestButton").value=Click + "x geklickt";
 }

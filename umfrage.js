@@ -78,14 +78,14 @@ function Button3(){
 
 function char(){
   if(ende == 2){
-    buchstabe = "a";
+    buchstabe = "A";
   }else if(ende == 3){
-    buchstabe = "b";
+    buchstabe = "B";
   }else if(ende == 4){
-    buchstabe = "c";
+    buchstabe = "C";
   }else if(ende == 5){
-    buchstabe = "d";
+    buchstabe = "D";
   }else if(ende == 6){
-    buchstabe = "e";
+    buchstabe = "E";
   }
 }

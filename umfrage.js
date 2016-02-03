@@ -10,6 +10,8 @@ function Button1(){
   }else if(document.getElementById("Button1").value == "Rechts"){
     document.getElementById("Thema").innerHTML = "Du bist A!";
     document.getElementById("Button1").style.display = "none";
+    document.getElementById("Button2").style.display = "none";
+    document.getElementById("Button3").style.display = "none";
     console.log("Button 1/3");
   }
 }

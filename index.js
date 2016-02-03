@@ -1,4 +1,4 @@
-console.log("Die Webseite wurde gestartet");
+console.log("Die Webseite wurde gestartet!");
 
 var Click = 0;
 
